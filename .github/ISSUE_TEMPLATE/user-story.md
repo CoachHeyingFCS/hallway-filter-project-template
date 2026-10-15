@@ -11,11 +11,11 @@ As a ___, I want ___, so that ___.
 - [ ] Given ___, when ___, then ___.
 - [ ] Given ___, when ___, then ___.
 
-**From our survey**
+**From our hallway site tests**
 Which section, test, or measurement does this come from?
 
-**User type** (add the matching label)
+**User type** (add the matching label - delete this section after adding label)
 on purpose / passerby / maintainer / excluded
 
-**Priority** (add the matching label)
+**Priority** (add the matching label -  delete this section after adding label)
 high / medium / low
